@@ -64,9 +64,3 @@ if st.button('Recommend'):
     
 st.caption('Made by :sparkling_heart: with  :red[_Suraj Yadav_ ]...:sunglasses:')
 
-# [theme]
-# primaryColor="#F63366"
-# backgroundColor="#FFFFFF"
-# secondaryBackgroundColor="#F0F2F6"
-# textColor="#262730"
-# font="sans serif"
